@@ -1,5 +1,15 @@
 ## Hi there 👋
 
+My name is Alam, and I'm a CSE Student who is interested in all things about Coding & JAVA!!
+
+- 🔭 I’m currently working on JAVA Programming Language. 🧑🏽‍💻[Java Codes](https://github.com/alam410/Java-Codes)
+- 🌱 I’m currently learning Data Structure & Algorithm.Here's my Leetcode Profile: [MyProfile](https://leetcode.com/u/alam_410/)
+- 👯 I’m looking to collaborate on StartUps.
+  - Send me invitations to lakadbd8@gmail.com
+- 🤔 I’m looking for help with Programming
+- 💬 Ask me about My Code's Explanation 
+- 📫 How to reach me: +8801812472998
+- ⚡ Fun fact: I was an Ex Officer Cadet in BD Army
 <!--
 **alam410/alam410** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
