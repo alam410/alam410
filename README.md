@@ -3,11 +3,12 @@
 <h1 align="center">Hi 👋, I'm Alam</h1>
 <h3 align="center">A passionate Developer from Bangladesh</h3>
 
+---
+[![](https://visitcount.itsvg.in/api?id=alam410&icon=0&color=4)](https://visitcount.itsvg.in)
+
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/a615ccee1fede08a3322b260a6c9b09fa7c9d76bb410469650b284ebebcaef57/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f65382f66342f35332f65386634353334363961336563393765636433353464663436356437333931332e676966">
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=alam410&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-</p>
+
 
 - 🔭 I’m currently working on **Java Code**
 - 🌱 I’m currently learning **JAVA**
@@ -15,7 +16,7 @@
 - 📫 How to reach me: **lakadbd8@gmail.com**
 - ⚡ Fun fact: **I was an Ex Officer Cadet in BD ARMY**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">My Coding Profile:</h3>
 <p align="left">
   <a href="https://codeforces.com/profile/alam410" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Codeforces" height="30" width="40" />
@@ -50,6 +51,8 @@
   </a>
 </p>
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=alam410&theme=nord&no-frame=false&no-bg=false&margin-w=4)
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alam410&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
 </p>
@@ -61,3 +64,8 @@
 <p>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alam410" alt="GitHub Streak" />
 </p>
+
+---
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
+
