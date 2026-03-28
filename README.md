@@ -1,65 +1,66 @@
-<p align="center">
-  <a href="https://alam-portfolio-three.vercel.app/">
-    <img src="https://alam-portfolio-three.vercel.app/og-share-card-v2.png" alt="Portfolio preview" width="100%" />
-  </a>
-</p>
+[![Portfolio Banner](https://raw.githubusercontent.com/alam410/alam410/main/assets/github-banner.png)](https://alam-portfolio-three.vercel.app/)
 
 <h1 align="center">Md. Thaiabul Alam Chowdhury</h1>
 
+<p align="center">Web Developer | CSE Graduate | AI Major</p>
+
 <p align="center">
-  CSE Graduate | AI Major | Web Developer
+  I build practical web products, student-focused platforms, and clean digital experiences with a product mindset.
 </p>
 
 <p align="center">
-  Building practical web products, student-focused platforms, and useful digital experiences from Bangladesh.
+  <a href="https://alam-portfolio-three.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Live-0f766e?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://www.linkedin.com/in/md-thaiabul-alam-chowdhury-1b5982360/">
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/alam410">
+    <img src="https://img.shields.io/badge/GitHub-@alam410-111827?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://leetcode.com/u/alam_410/">
+    <img src="https://img.shields.io/badge/LeetCode-alam__410-222222?style=flat-square&logo=leetcode&logoColor=FFA116" alt="LeetCode" />
+  </a>
+  <a href="https://codeforces.com/profile/alam410">
+    <img src="https://img.shields.io/badge/Codeforces-alam410-1F2937?style=flat-square" alt="Codeforces" />
+  </a>
+  <a href="https://www.kaggle.com/alam410">
+    <img src="https://img.shields.io/badge/Kaggle-alam410-0B1220?style=flat-square&logo=kaggle&logoColor=20BEFF" alt="Kaggle" />
+  </a>
+  <a href="mailto:lakadbd8@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-E57E4F?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+  </a>
 </p>
 
 <p align="center">
-  <a href="https://alam-portfolio-three.vercel.app/">Portfolio</a>
-  •
-  <a href="https://www.linkedin.com/in/md-thaiabul-alam-chowdhury-1b5982360/">LinkedIn</a>
-  •
-  <a href="https://github.com/alam410">GitHub</a>
-  •
-  <a href="https://leetcode.com/u/alam_410/">LeetCode</a>
-  •
-  <a href="https://codeforces.com/profile/alam410">Codeforces</a>
-  •
-  <a href="https://www.kaggle.com/alam410">Kaggle</a>
-  •
-  <a href="mailto:lakadbd8@gmail.com">Email</a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=alam410&label=Profile%20views&color=0f766e&style=flat" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=alam410&label=Profile%20views&color=0f766e&style=flat-square" alt="Profile views" />
 </p>
 
 ## About Me
 
-- I focus on web development, practical product building, and student-centered digital platforms.
-- My core interests are React, Firebase, JavaScript, Java, and problem solving through software.
-- I like building products that are useful in real life, not just visually polished.
-- I was an Ex Officer Cadet in the Bangladesh Army, which shaped my discipline, teamwork, and leadership mindset.
 - Based in Dhaka, Bangladesh.
+- Focused on React, JavaScript, Firebase, Java, and practical web product building.
+- Interested in student platforms, clean UX, and useful software that solves real problems.
+- Former Ex Officer Cadet in the Bangladesh Army, which shaped my discipline, teamwork, and leadership approach.
 
-## Current Focus
+## What I Build
 
-- Student platforms that solve real campus and communication problems
-- Responsive web apps with clean UX and practical product thinking
-- Frontend-led projects with backend integration and usable interfaces
+- Student platforms that solve real campus communication and information problems.
+- Responsive web applications with product-focused UX and usable interfaces.
+- Frontend-led projects that still care about backend integration, structure, and delivery.
 
 ## Featured Projects
 
 - **BUBT-Connect**  
-  A student-focused web platform for campus connection, updates, and useful university information.  
+  Student platform for campus connection, updates, and university support.  
   Live: https://bubt-connect.vercel.app/login
 
 - **Portfolio Website**  
-  A custom portfolio with editable admin content, media support, references, and a strong design identity.  
+  Custom portfolio with admin editing, project media, references, and a strong visual identity.  
   Live: https://alam-portfolio-three.vercel.app/
 
 - **NobleMan**  
-  A web product project focused on cleaner flow, better usability, and practical interface thinking.
+  Web product work focused on cleaner user flow, better usability, and practical interface thinking.
 
 ## Core Stack
 
@@ -75,14 +76,14 @@
   <img src="https://img.shields.io/badge/Git-0B1220?style=for-the-badge&logo=git&logoColor=F05032" alt="Git" />
 </p>
 
-## Competitive & Learning Profiles
+## Coding Profiles
 
 <p align="left">
   <a href="https://leetcode.com/u/alam_410/">
     <img src="https://img.shields.io/badge/LeetCode-alam__410-0B1220?style=for-the-badge&logo=leetcode&logoColor=FFA116" alt="LeetCode" />
   </a>
   <a href="https://codeforces.com/profile/alam410">
-    <img src="https://img.shields.io/badge/Codeforces-alam410-0B1220?style=for-the-badge&logo=codeforces&logoColor=F5A623" alt="Codeforces" />
+    <img src="https://img.shields.io/badge/Codeforces-alam410-0B1220?style=for-the-badge" alt="Codeforces" />
   </a>
   <a href="https://www.kaggle.com/alam410">
     <img src="https://img.shields.io/badge/Kaggle-alam410-0B1220?style=for-the-badge&logo=kaggle&logoColor=20BEFF" alt="Kaggle" />
@@ -92,10 +93,9 @@
 ## GitHub Snapshot
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=alam410&theme=github_dark" alt="GitHub stats" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=alam410&theme=github_dark" alt="Top languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alam410&theme=github_dark" alt="GitHub activity overview" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=alam410&hide_border=true&background=FFFFFF00&ring=ea580c&fire=ea580c&currStreakLabel=0f172a&sideLabels=475569&currStreakNum=0f172a&dates=64748b&sideNums=0f172a" alt="GitHub streak" />
+  <img src="https://streak-stats.demolab.com?user=alam410&hide_border=true&background=0D1117&border=30363D&stroke=30363D&ring=E57E4F&fire=E57E4F&currStreakLabel=E57E4F&sideNums=E6EDF3&currStreakNum=E6EDF3&dates=8B949E&sideLabels=8B949E" alt="GitHub streak" />
 </p>
