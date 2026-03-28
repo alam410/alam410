@@ -1,30 +1,32 @@
 <p align="center">
-  <img src="https://alam-portfolio-three.vercel.app/og-share-card-v2.png" alt="Portfolio preview" width="100%" />
+  <a href="https://alam-portfolio-three.vercel.app/">
+    <img src="https://alam-portfolio-three.vercel.app/og-share-card-v2.png" alt="Portfolio preview" width="100%" />
+  </a>
 </p>
 
 <h1 align="center">Md. Thaiabul Alam Chowdhury</h1>
 
 <p align="center">
-  CSE Graduate | AI Major | Web Developer from Bangladesh
+  CSE Graduate | AI Major | Web Developer
 </p>
 
 <p align="center">
-  I build practical web products, student-focused platforms, and useful digital experiences.
+  Building practical web products, student-focused platforms, and useful digital experiences from Bangladesh.
 </p>
 
 <p align="center">
   <a href="https://alam-portfolio-three.vercel.app/">Portfolio</a>
-  -
+  •
   <a href="https://www.linkedin.com/in/md-thaiabul-alam-chowdhury-1b5982360/">LinkedIn</a>
-  -
+  •
   <a href="https://github.com/alam410">GitHub</a>
-  -
+  •
   <a href="https://leetcode.com/u/alam_410/">LeetCode</a>
-  -
+  •
   <a href="https://codeforces.com/profile/alam410">Codeforces</a>
-  -
+  •
   <a href="https://www.kaggle.com/alam410">Kaggle</a>
-  -
+  •
   <a href="mailto:lakadbd8@gmail.com">Email</a>
 </p>
 
@@ -35,16 +37,16 @@
 ## About Me
 
 - I focus on web development, practical product building, and student-centered digital platforms.
-- My strongest interests are React, Firebase, JavaScript, Java, and problem solving through software.
-- I enjoy building things that are useful in real life, not just visually polished.
+- My core interests are React, Firebase, JavaScript, Java, and problem solving through software.
+- I like building products that are useful in real life, not just visually polished.
 - I was an Ex Officer Cadet in the Bangladesh Army, which shaped my discipline, teamwork, and leadership mindset.
 - Based in Dhaka, Bangladesh.
 
-## What I Build
+## Current Focus
 
-- Student platforms that solve real campus and communication problems.
-- Responsive web apps with clean UX and clear product thinking.
-- Practical projects that combine frontend development, backend integration, and usability.
+- Student platforms that solve real campus and communication problems
+- Responsive web apps with clean UX and practical product thinking
+- Frontend-led projects with backend integration and usable interfaces
 
 ## Featured Projects
 
@@ -73,7 +75,7 @@
   <img src="https://img.shields.io/badge/Git-0B1220?style=for-the-badge&logo=git&logoColor=F05032" alt="Git" />
 </p>
 
-## Coding Profiles
+## Competitive & Learning Profiles
 
 <p align="left">
   <a href="https://leetcode.com/u/alam_410/">
@@ -90,8 +92,8 @@
 ## GitHub Snapshot
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alam410&show_icons=true&hide_border=true&bg_color=00000000&title_color=0f172a&text_color=475569&icon_color=0f766e&rank_icon=github" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=alam410&layout=compact&hide_border=true&bg_color=00000000&title_color=0f172a&text_color=475569" alt="Top languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=alam410&theme=github_dark" alt="GitHub stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=alam410&theme=github_dark" alt="Top languages" />
 </p>
 
 <p align="center">
